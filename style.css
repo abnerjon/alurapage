@@ -35,10 +35,11 @@
 .rodape{
 
     text-align: center;
-    background-color:#262626;}
+    background-color:#262626;
+}
 
     .curso{
-        background-image: linear-gradient(#51025a, #e85cda64);
+        background-image: linear-gradient(#19181a, #c5c0c564);
         color:white;
         display: flex;
         justify-content: center;
