@@ -29,5 +29,10 @@
 
 .rodape-imagem{
 
-  height: 60px;  
+  height: 50px;  
+}
+
+.rodape{
+
+    text-align: center;
 }
