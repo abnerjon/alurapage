@@ -49,7 +49,9 @@
     
     .curso-div-conteudo{
     width: 25%;
+    padding: 15px;
     }
+    
     .curso-titulo{
-    padding: 24px 25px;
+    padding: 24px 0;
     }
