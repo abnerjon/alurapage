@@ -38,21 +38,19 @@
     background-color:#262626;
 }
 
-.curso{
+.curso {
     background-image: linear-gradient(#19181a, #c5c0c564);
-    color:white;
+    color: white;
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 24px 0;
-    }
-    
-    .curso-div-conteudo{
-    width: 50%;
-    
-    }
+}
 
-    .curso-titulo{
-    padding: 14px 18px;
+.curso-div-conteudo {
+    width: 35%;
+}
 
-    }
+.curso-titulo {
+    padding: 24px 0;
+}
